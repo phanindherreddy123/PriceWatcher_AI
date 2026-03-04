@@ -197,7 +197,7 @@ npm run dev
 
 ## 📈 Future Enhancements
 
-- Real-time competitor API integration
+- Real-time competitor API integration.
 - Machine learning-based price prediction
 - Cloud deployment support
 - Automated alerts for price changes
