@@ -131,7 +131,7 @@ PriceWatcher_AI/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/navarojreddy48/PriceWatcher_AI.git
+git clone https://github.com/phanindherreddy123/PriceWatcher_AI.git
 cd PriceWatcher_AI
 ```
 
