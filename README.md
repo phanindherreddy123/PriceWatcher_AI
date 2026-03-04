@@ -195,6 +195,13 @@ npm run dev
 - Clean separation between frontend and backend
 - Scalable project structure
 
+## 📈 Future Enhancements
+
+- Real-time competitor API integration.
+- Machine learning-based price prediction
+- Cloud deployment support
+- Automated alerts for price changes
+- Advanced business intelligence dashboard
 
 ## Contributors
 
